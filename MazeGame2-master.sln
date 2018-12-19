@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeGame2-master", "Assembly-CSharp.csproj", "{19CF7868-47B6-ACDF-D7D8-6962B1A779FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19CF7868-47B6-ACDF-D7D8-6962B1A779FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19CF7868-47B6-ACDF-D7D8-6962B1A779FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19CF7868-47B6-ACDF-D7D8-6962B1A779FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19CF7868-47B6-ACDF-D7D8-6962B1A779FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
